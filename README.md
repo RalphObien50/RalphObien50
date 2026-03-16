@@ -6,26 +6,19 @@
 
 *Building things that work. Learning things that matter.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ralph-euriko-obien)
-[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/ralph-obien)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ralph-euriko-obien-73551a341/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ralpheuriko)
 [![Email](https://img.shields.io/badge/ralpheuriko@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ralpheuriko@gmail.com)
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=ralpheuriko&show_icons=true&hide_border=true&title_color=111111&text_color=555555&icon_color=111111&bg_color=fafafa" />
-
 ### About me
 
 I'm an IT student passionate about building full-stack web applications and exploring the full lifecycle of software — from design to deployment.
 
 I enjoy working close to the stack: writing clean APIs, structuring databases well, and understanding how systems fit together.
-
-**Currently learning:**
-- Spring Boot & backend architecture
-- AWS cloud fundamentals
-- Mobile development with Kotlin
 
 <br clear="right"/>
 
@@ -66,18 +59,6 @@ I enjoy working close to the stack: writing clean APIs, structuring databases we
 ![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
 
 </div>
-
----
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ralpheuriko&layout=compact&hide_border=true&title_color=111111&text_color=555555&bg_color=fafafa)
-
-![Streak](https://streak-stats.demolab.com?user=ralpheuriko&hide_border=true&background=fafafa&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=555555&dates=aaaaaa&currStreakNum=111111&sideNums=111111)
-
-</div>
-
----
 
 <div align="center">
 
