@@ -1,13 +1,69 @@
 <div align="center">
 
-```
-██╗   ██╗ ██████╗ ██╗   ██╗██████╗ ███████╗██╗   ██╗███╗   ██╗ █████╗ ███╗   ███╗███████╗
-╚██╗ ██╔╝██╔═══██╗██║   ██║██╔══██╗██╔════╝██║   ██║████╗  ██║██╔══██╗████╗ ████║██╔════╝
- ╚████╔╝ ██║   ██║██║   ██║██████╔╝███████╗██║   ██║██╔██╗ ██║███████║██╔████╔██║█████╗  
-  ╚██╔╝  ██║   ██║██║   ██║██╔══██╗╚════██║██║   ██║██║╚██╗██║██╔══██║██║╚██╔╝██║██╔══╝  
-   ██║   ╚██████╔╝╚██████╔╝██║  ██║███████║╚██████╔╝██║ ╚████║██║  ██║██║ ╚═╝ ██║███████╗
-   ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
-```
+# Ralph Euriko Obien
+
+**IT Student** · Web Development · Software Engineering · Database Management
+
+*Building things that work. Learning things that matter.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ralph-euriko-obien)
+[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/ralph-obien)
+[![Email](https://img.shields.io/badge/ralpheuriko@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ralpheuriko@gmail.com)
+
+</div>
+
+---
+
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=ralpheuriko&show_icons=true&hide_border=true&title_color=111111&text_color=555555&icon_color=111111&bg_color=fafafa" />
+
+### About me
+
+I'm an IT student passionate about building full-stack web applications and exploring the full lifecycle of software — from design to deployment.
+
+I enjoy working close to the stack: writing clean APIs, structuring databases well, and understanding how systems fit together.
+
+**Currently learning:**
+- Spring Boot & backend architecture
+- AWS cloud fundamentals
+- Mobile development with Kotlin
+
+<br clear="right"/>
+
+---
+
+### Languages & Frameworks
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Angular](https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+
+</div>
+
+---
+
+### Tools & Infrastructure
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
@@ -15,38 +71,18 @@
 
 <div align="center">
 
-**Backend Engineer** · Building systems that scale quietly and run reliably.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ralpheuriko&layout=compact&hide_border=true&title_color=111111&text_color=555555&bg_color=fafafa)
 
-`Go` · `Python` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes`
+![Streak](https://streak-stats.demolab.com?user=ralpheuriko&hide_border=true&background=fafafa&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=555555&dates=aaaaaa&currStreakNum=111111&sideNums=111111)
 
 </div>
 
 ---
 
-### About
-
-A motivated IT student with experience in web development, software development, and database management. Passionate about learning new technologies and contributing to innovative projects.
-
-Currently focused on:
-- Designing fault-tolerant microservices
-- Optimizing database query performance
-- Building internal tooling that developers actually want to use
-
----
-
-### Stack
-
-| Layer | Tools |
-|---|---|
-| **Languages** | Go · Python · SQL |
-| **Databases** | PostgreSQL · Redis · ClickHouse |
-| **Infrastructure** | Docker · Kubernetes · Terraform |
-| **Observability** | Prometheus · Grafana · OpenTelemetry |
-| **Message Queues** | Kafka · RabbitMQ |
-
-
 <div align="center">
 
-[Email](mailto:you@example.com) · [LinkedIn](https://linkedin.com/in/yourusername) · [Blog](https://yourblog.dev)
+*Open to collaborations, internships, and interesting problems.*
+
+**ralpheuriko@gmail.com**
 
 </div>
