@@ -56,13 +56,12 @@ I enjoy working close to the stack: writing clean APIs, structuring databases we
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
 <div align="center">
 
-*Open to collaborations, internships, and interesting problems.*
+*Open to collaborations, and internships.*
 
 **ralpheuriko@gmail.com**
 
