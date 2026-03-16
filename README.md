@@ -16,7 +16,7 @@
 
 ### About me
 
-I'm an 3rd year IT student from Mapua University passionate about building full-stack web applications and exploring the full lifecycle of software — from design to deployment. I enjoy working close to the stack: writing clean APIs, structuring databases well, and understanding how systems fit together.
+I'm an BSIT student from Mapua University passionate about building full-stack web applications and exploring the full lifecycle of software — from design to deployment. I enjoy working close to the stack: writing clean APIs, structuring databases well, and understanding how systems fit together.
 
 <br clear="right"/>
 
