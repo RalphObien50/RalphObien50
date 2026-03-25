@@ -57,6 +57,15 @@ I'm an BSIT student from Mapua University passionate about building full-stack w
 
 </div>
 
+---
+### Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [GeoTrack](https://github.com/RalphObien50) | Developed a Geofence Based Mobile Application for a BPO company as part of our thesis. | React, Node.js, Kotlin, MySQL, AWS | <img src="https://raw.githubusercontent.com/RalphObien50/ProjectAssets/130a3871c5e0537cc8c5688dfea444f8fb707459/2dabb7b2-b9f0-45bf-adb1-11715909b661.jpg" width="150"> <br> <img src="https://raw.githubusercontent.com/RalphObien50/ProjectAssets/130a3871c5e0537cc8c5688dfea444f8fb707459/d529dc48-da6f-4709-8741-9651b08fcb4a.jpg" width="150"> |
+| [Learning Management System] | Developed a Learning Management System for a government school in Pasig City. | PHP, MySQL, HTML, CSS, Javascript |
+| [ToiletFinder App] | Collaborated with a team of developers to build a mobile application as part of the internship project. | ReactJS, MongoDB, Expo Go |
+
 <div align="center">
 
 *Open to collaborations, and internships.*
